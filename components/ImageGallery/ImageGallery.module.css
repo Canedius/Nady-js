@@ -1,0 +1,14 @@
+.ImageGallery{
+    /* border: 1 px solid tomato; */
+    
+        max-width: calc(100vw - 48px);
+    
+        display: flex;
+        flex-wrap: wrap;
+        background-size: contain;
+        
+
+        padding:10px;
+        list-style: none;
+        
+}
